@@ -3,7 +3,7 @@ Olá! Eu sou o Celso! :)
 - 🎓 Formado em Design Gráfico e cursando Análise e Desenvolvimento de Sistemas
 - 🔭 Analista de Customer Experience em processo de transição de carreira 
 - 🌱 Focado em Java e Kotlin rumo ao sonho de me tornar um grande desenvolvedor Mobile! 
-- 😄 Pronomes: ele/dele 
+
 
 <div align="center">
   <a href="https://github.com/celsodantasdev">
