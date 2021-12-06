@@ -20,7 +20,6 @@ So, since then, every day I study Kotlin, the most important language for Androi
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="right" height="150" style="border-radius:50px;" src="https://scontent.fcgh37-1.fna.fbcdn.net/v/t1.6435-9/251378837_4372693212843567_2428439224476552363_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=0N4CUS3vbUEAX-Gc-6k&_nc_ht=scontent.fcgh37-1.fna&oh=36bab61bded3db4abfdd50c11ca03742&oe=61A5DF43">
 </div>
 
  ##
