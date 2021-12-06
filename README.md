@@ -4,7 +4,7 @@ Hello!! I'm Celso! :)
 - 🌱 Focused on Java and Kotlin towards the dream of becoming a great Android Developer!
 - 📚 I like to read, learn new technologies, videogames, movies, music and traveling.
 
-Knowing the importance of applications that today help us to solve small and large problems in our daily lives, in addition to connecting with people, cultures and all the myriad possibilities provided through technology in the palm of our hands, I fell in love with the idea of having mobile development as a profession. 
+Knowing the importance of applications that today help us to solve small and large problems in our daily lives, in addition to connecting with people, cultures and all the thousands possibilities provided through technology in the palm of our hands, I fell in love with the idea of having mobile development as a profession. 
 So, since then, every day I study Kotlin, the most important language for Android Native Development, and keep abreast of all related subjects and technologies.
 
 <div align="center">
