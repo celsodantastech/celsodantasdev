@@ -1,9 +1,11 @@
-Olá! Eu sou o Celso! :) 
+Hello!! I'm Celso! :) 
 
-- 🎓 Formado em Design Gráfico e cursando Análise e Desenvolvimento de Sistemas
-- 🔭 Analista de Customer Experience em processo de transição de carreira 
-- 🌱 Focado em Java e Kotlin rumo ao sonho de me tornar um grande desenvolvedor Mobile! 
+- 🎓 Graduated in Graphic Design and studying Systems Analysis and Development
+- 🌱 Focused on Java and Kotlin towards the dream of becoming a great Android Developer!
+- 📚 I like to read, learn new technologies, videogames, movies, music and traveling.
 
+Knowing the importance of applications that today help us to solve small and large problems in our daily lives, in addition to connecting with people, cultures and all the myriad possibilities provided through technology in the palm of our hands, I fell in love with the idea of having mobile development as a profession. 
+So, since then, every day I study Kotlin, the most important language for Android Native Development, and keep abreast of all related subjects and technologies.
 
 <div align="center">
   <a href="https://github.com/celsodantasdev">
