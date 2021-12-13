@@ -8,8 +8,8 @@ Knowing the importance of applications that today help us to solve small and lar
 So, since then, every day I study Kotlin, the most important language for Android Native Development, and keep abreast of all related subjects and technologies.
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/celsodantasdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=celsodantasdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
