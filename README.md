@@ -7,7 +7,11 @@ Hello!! I'm Celso! :)
 Knowing the importance of applications that today help us to solve small and large problems in our daily lives, in addition to connecting with people, cultures and all the thousands possibilities provided through technology in the palm of our hands, I fell in love with the idea of having mobile development as a profession. 
 So, since then, every day I study Kotlin, the most important language for Android Native Development, and keep abreast of all related subjects and technologies.
 
-
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
