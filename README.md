@@ -10,7 +10,7 @@ So, since then, every day I study Kotlin, the most important language for Androi
 <div align="center">
   <a href="https://github.com/celsodantasdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=celsodantasdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celsodantasdev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
