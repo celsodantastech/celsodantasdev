@@ -7,7 +7,7 @@ Hello!! I'm Celso! :)
 Knowing the importance of applications that today help us to solve small and large problems in our daily lives, in addition to connecting with people, cultures and all the thousands possibilities provided through technology in the palm of our hands, I fell in love with the idea of having mobile development as a profession. 
 So, since then, every day I study Kotlin, the most important language for Android Native Development, and keep abreast of all related subjects and technologies.
 
-<div>
+<div align="center">
   <a href="https://github.com/celsodantasdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=celsodantasdev&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celsodantasdev&layout=compact&langs_count=7&theme=nord "/>
