@@ -1,11 +1,36 @@
-Hello!! I'm Celso! :) 
+Aluno da segunda turma do Bootcamp intensivo de Desenvolvimento Mobile da Generation Brasil. Formado em Design Gráfico, estudante de Análise e Desenvolvimento de Sistemas. Faço study/co-working streams e live coding na Twitch como afiliado na plataforma. Possuo conhecimento em lógica de programação, programação orientada a objetos, Git, Kotlin, Android Studio e metodologias ágeis. 
 
-- Graduated in Graphic Design and studying Systems Analysis and Development
-- Focused on Kotlin towards the dream of becoming a great Android Developer!
-- I like to read, learn new technologies, photography, videogames, movies, music and traveling.
+Ampla experiência com suporte técnico e Customer Experience.
 
-Knowing the importance of applications that today help us to solve small and large problems in our daily lives, in addition to connecting with people, cultures and all the thousands possibilities provided through technology in the palm of our hands, I fell in love with the idea of having mobile development as a profession. 
-So, since then, every day I study Kotlin, the most important language for Android Native Development, and keep abreast of all related subjects and technologies.
+Hard Skills: 
+
+- Kotlin
+- Git
+- Android Studio
+- Arquitetura MVVM
+- Injeção de dependência
+- Navigation components
+- Fragments
+- Activities 
+- RecyclerView
+- API Retrofit 
+- Room
+- Metodologia Ágil (Scrum)
+- Clean Code 
+- Teste unitário 
+- Inglês avançado 
+
+Soft Skills: 
+
+- Comunicação 
+- Persistência 
+- Orientação a detalhes 
+- Responsabilidade pessoal 
+- Proatividade 
+
+#neverstoplearning
+
+www.twitch.tv/linquestudy
 
 <div align="center">
   <a href="https://github.com/celsodantasdev">
