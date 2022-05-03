@@ -2,36 +2,6 @@ Aluno da segunda turma do Bootcamp intensivo de Desenvolvimento Mobile da Genera
 
 Ampla experiência com suporte técnico e Customer Experience.
 
-Hard Skills: 
-
-- Kotlin
-- Git
-- Android Studio
-- Arquitetura MVVM
-- Injeção de dependência
-- Navigation components
-- Fragments
-- Activities 
-- RecyclerView
-- API Retrofit 
-- Room
-- Metodologia Ágil (Scrum)
-- Clean Code 
-- Teste unitário 
-- Inglês avançado 
-
-Soft Skills: 
-
-- Comunicação 
-- Persistência 
-- Orientação a detalhes 
-- Responsabilidade pessoal 
-- Proatividade 
-
-#neverstoplearning
-
-www.twitch.tv/linquestudy
-
 <div align="center">
   <a href="https://github.com/celsodantasdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=celsodantasdev&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
