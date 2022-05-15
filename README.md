@@ -1,4 +1,4 @@
-Aluno da segunda turma do Bootcamp intensivo de Desenvolvimento Mobile da Generation Brasil. Formado em Design Gráfico, estudante de Análise e Desenvolvimento de Sistemas. Faço trabalho voluntário como mentor na Generation Brasil para jovens e adultos que estão iniciando no mercado de tecnologia. 
+Aluno da segunda turma do Bootcamp intensivo de Desenvolvimento Mobile da Generation Brasil. Formado em Design Gráfico, estudante de Análise e Desenvolvimento de Sistemas. Faço trabalho voluntário como mentor na Generation Brasil para jovens e adultos que estão iniciando no mundo da tecnologia. 
 
 Atuando como Desenvolvedor estagiário no Grupo Supernosso. 
 
