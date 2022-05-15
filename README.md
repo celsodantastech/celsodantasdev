@@ -1,6 +1,8 @@
-Aluno da segunda turma do Bootcamp intensivo de Desenvolvimento Mobile da Generation Brasil. Formado em Design Gráfico, estudante de Análise e Desenvolvimento de Sistemas. Faço study/co-working streams e live coding na Twitch como afiliado na plataforma. Possuo conhecimento em lógica de programação, programação orientada a objetos, Git, Kotlin, Android Studio e metodologias ágeis. 
+Aluno da segunda turma do Bootcamp intensivo de Desenvolvimento Mobile da Generation Brasil. Formado em Design Gráfico, estudante de Análise e Desenvolvimento de Sistemas. Faço trabalho voluntário como mentor na Generation Brasil para jovens e adultos que estão iniciando no mercado de tecnologia. 
 
-Ampla experiência com suporte técnico e Customer Experience.
+Atuando como Desenvolvedor estagiário no Grupo Supernosso. 
+
+Ampla experiência com suporte técnico e Customer Experience. 
 
 <div align="center">
   <a href="https://github.com/celsodantasdev">
