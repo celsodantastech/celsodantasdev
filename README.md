@@ -2,7 +2,7 @@ Aluno da segunda turma do Bootcamp intensivo de Desenvolvimento Mobile da Genera
 
 Atuando como Desenvolvedor estagiário no Grupo Supernosso. 
 
-Ampla experiência com suporte técnico e Customer Experience. 
+Ampla experiência com Suporte Técnico e Customer Experience. 
 
 <div align="center">
   <a href="https://github.com/celsodantasdev">
