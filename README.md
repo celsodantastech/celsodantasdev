@@ -1,9 +1,5 @@
 Aluno da segunda turma do Bootcamp intensivo de Desenvolvimento Mobile da Generation Brasil. Formado em Design Gráfico, estudante de Análise e Desenvolvimento de Sistemas. Faço trabalho voluntário como mentor na Generation Brasil para jovens e adultos que estão iniciando no mundo da tecnologia. 
 
-Atuando como Desenvolvedor no Grupo Supernosso. 
-
-Ampla experiência com Suporte Técnico e Customer Experience. 
-
 <div align="center">
   <a href="https://github.com/celsodantasdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=celsodantasdev&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
