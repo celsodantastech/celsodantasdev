@@ -1,4 +1,8 @@
-Aluno da segunda turma do Bootcamp intensivo de Desenvolvimento Mobile da Generation Brasil. Formado em Design Gráfico, estudante de Análise e Desenvolvimento de Sistemas. Faço trabalho voluntário como mentor na Generation Brasil para jovens e adultos que estão iniciando no mundo da tecnologia. 
+Aluno da segunda turma do Bootcamp intensivo de Desenvolvimento Mobile da Generation Brasil. 
+Formado em Design Gráfico e estudante de Análise e Desenvolvimento de Sistemas. 
+
+Apaixonado por tecnologia com foco em Qualidade de Software.
+Possuo experiência com Testes/QA, Desenvolvimento Web & Mobile, Banco de Dados, Metodologias Ágeis e noções de UX/UI. 
 
 <div align="center">
   <a href="https://github.com/celsodantastech">
