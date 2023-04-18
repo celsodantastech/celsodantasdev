@@ -1,8 +1,4 @@
-Aluno da segunda turma do Bootcamp intensivo de Desenvolvimento Mobile da Generation Brasil. 
-Formado em Design Gráfico e estudante de Análise e Desenvolvimento de Sistemas. 
-
-Apaixonado por tecnologia com foco em Qualidade de Software.
-Possuo experiência com Testes/QA, Desenvolvimento Web & Mobile, Banco de Dados, Metodologias Ágeis e noções de UX/UI. 
+Analista de Testes e Qualidade de Software com mais de um ano de experiência na área, altamente dedicado e apaixonado pela entrega de softwares de alta qualidade. Formado em Design Gráfico e estudante de Análise e Desenvolvimento de Sistemas. Possuo background em Desenvolvimento de Software e boas noções de UX/UI.  
 
 <div align="center">
   <a href="https://github.com/celsodantastech">
