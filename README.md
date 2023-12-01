@@ -2,22 +2,7 @@
 
 Formado em Design Gráfico e estudante de Análise e Desenvolvimento de Sistemas. Com mais de um ano de experiência como Tester/QA, possuo habilidades sólidas em testes funcionais/manuais, conhecimento em automação de testes Web e Mobile, testes de API, banco de dados, elaboração de casos de testes e vivência em metodologias ágeis. Estou em constante aprimoramento e, atualmente, estou me preparando para obter a certificação CTFL.
 
-## Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=celsodantastech&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celsodantastech&layout=compact&langs_count=7&theme=darcula"/>
-</div>
-
-## Tecnologias e Ferramentas
-
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
 
 ## Contatos
 
