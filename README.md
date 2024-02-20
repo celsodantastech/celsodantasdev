@@ -1,6 +1,6 @@
 # Sobre mim
 
-Formado em Design Gráfico e estudante de Análise e Desenvolvimento de Sistemas. Com mais de um ano de experiência como Tester/QA, possuo habilidades sólidas em testes funcionais/manuais, conhecimento em automação de testes Web e Mobile, testes de API, banco de dados, elaboração de casos de testes e vivência em metodologias ágeis. Estou em constante aprimoramento e, atualmente, estou me preparando para obter a certificação CTFL.
+Formado em Design Gráfico e estudante de Análise e Desenvolvimento de Sistemas. Com mais de um ano de um ano e meio de experiência como Tester/QA, possuo habilidades sólidas em testes funcionais/manuais, conhecimento em automação de testes Web e Mobile, testes de API, banco de dados, elaboração de casos de testes e vivência em metodologias ágeis. Estou em constante aprimoramento e, atualmente, estou me preparando para obter a certificação CTFL.
 
 
 
